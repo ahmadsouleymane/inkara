@@ -191,9 +191,3 @@ SmartLib/
 ## Licence
 
 Projet open-source. Libre d'utilisation et de modification.
-
----
-
-## 👤 Auteur
-
-**Ahmad Souleymane** — [@ahmadsouleymane](https://github.com/ahmadsouleymane)
